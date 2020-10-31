@@ -1,0 +1,213 @@
+\documentclass[margin,line]{res}
+\usepackage{graphicx} % needed for including graphics e.g. EPS, PS
+\oddsidemargin -.5in
+\evensidemargin -.5in
+\textwidth=6.0in
+\itemsep=0in
+\parsep=0in
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\renewcommand{\labelitemi}{\tiny{$\blacksquare$}}
+\renewcommand{\labelitemii}{$\blacksquare$}
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{\tiny{$\blacksquare$}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+	      \setlength{\rightmargin}{0in}
+      \setlength{\leftmargin}{0in}}}{\end{list}}
+
+%\renewcommand{\labelitemi}{$\bullet$}
+\begin{document}
+
+%\begin{document}
+%\begin{center}
+%\begin{picture}
+%\centerline{ \mbox{\includegraphics[width=2cm]{logo.jpg}}}
+%\end{picture}
+%\end{center}
+\name{Ashwini Kumar Mathur \vspace*{.1in} }
+
+
+\begin{resume}
+
+%
+%contact Information
+%
+\section{\sc Contact Information}
+\vspace{.05in}
+Phone : +91-7905281329\\
+Email : ashmathur91@gmail.com, ashwini.mathur@jainuniversity.ac.in\\
+Address : Brigade Meadows Apartments - Kanakpura Road,  Bangalore, Karnataka. PIN - 560062 \\
+Website: https://ashmathur91.github.io/personal_blog/
+%\end{tabular}
+
+%
+%EDUCATION
+
+\section{\sc Objective}
+To build a career that offer challenge and growth with opportunities to enrich my knowledge and skills while contributing my best to the organization, I work for.     
+\\
+
+\section{\sc Education}
+\begin{itemize}
+\item {\bf Master of Technology (Computer Science and Engineering)} \\ 
+June 2016 - May 2018  with Specialization in {\bf Computer Science & Engineering} (Department of Computer Science $\&$ Engineering) from National Institute of Technology, jalandhar with {\bf 7.0 CGPA out of 10 $\%$}.
+\item {\bf Master of Technology (Computer Science and Engineering)} \\ 
+June 2014 - May 2016  with Specialization in {\bf Computer Science & Engineering} (Department of Computer Science $\&$ Engineering) from Central University of Rajasthan, Ajmer with {\bf 4.88 CGPA out of 7 $\%$}
+\item {\bf Bachelor of Technology (Computer Science and Engineering)}\\
+Sep 2009 - July 2013 with Specialization in Computer Engineering from JSS Academy of Technical Education (Uttar Pradesh Technical University, Noida) with {\bf 66.7$\%$}.
+\item {\bf XII}\\
+May 2008 from  Kendriya Vidyalaya I.I.T. kanpur (C.B.S.E) with {\bf 70.00$\%$}.
+\item {\bf X}\\
+May 2006 from Kendriya Vidyalaya I.I.T. kanpur  (C.B.S.E) with {\bf 75.00$\%$}.
+\end{itemize}
+
+%\end{itemize}
+%  \\
+%\bullet 
+%\end{list2}
+
+%
+%Research Interests
+%
+
+
+\section{\sc Research Interests}
+Cloud Computing, Image Processing, Data Science and Deep Learning 
+ 
+ 
+\section{\sc Academic Experience}
+
+{\bf June 2018 - November 2020 [ present ] - Assistant Professor, at [F.E.T]} Faculty of Engineering and Technology, Jain - Deemed to be university, Bangalore, Karnataka - 560062, India.\\
+
+
+{\bf June 2016 -May 2018 as a “Teaching Assistant”  [ Data-structure and Cryptography lab for B-tech students ] } in “Department of Computer Science and Engineering” at National Institute of Technology , Punjab, India Under Assistant professor Deepak Gupta.\\
+
+{\bf July 2014-May 2016 as a “Teaching Assistant” [ C programming Lab for M.sc students [ Physics and Computer Science Department ] ] } in “Department of Computer Science and
+Engineering” at Central University of Rajasthan, Ajmer, India Under Assistant professor Harish Sharma.\\
+
+\section{\sc Courses Handled}
+{\bf Academic Year 2018, 2019, 2020: }\\
+
+Computer Organization and Architecture\\
+Principle of Virtualization [ With Hands on Experience lab on VMware Vsphere softwares ]\\
+Enterprise Network Engineering [ With Lab on Cisco packet tracer 6.0 ]\\
+Data-structures  Using C [ With lab on code blocks ]\\ 
+R Programming Language [with Lab ]\\
+Linux Administration [ with lab ]\\
+Cloud Technology\\
+C Programming Lab
+
+\section{\sc Skills Summary}
+\textbf{Operating Systems Familiarity:} Windows , Linux [ Redhat and Debian Distro ]\\
+\textbf{Programming Languages:} C, C++, python, Basic shell scripting  \\
+\textbf{Recent Course Completion:} CS231n (Deep learning), Convolution Neural Network\\
+\textbf{Tools and Packages:} Latex, Open Office, MS Office, Matlab, jupyter notebook, Tensorflow with keras \\
+\textbf{Virtualization Tools:} Oracle VM Virtual Box, VMWare\\
+
+\section{\sc Mtech Thesis Topic}
+
+\begin{itemize}
+    
+
+\item{\bf Title:} Bird Image Classification Algorithm\\
+\textbf{Abstract:} We describe a Bird detection technique that uses the Combine feature of Global shape descriptors and local shape descriptors, instead of using commonly used part based representation. With that we also analyses the visual bag of feature technique use for classifying the classes of Bird Images. This approach in considerably achieves a significant performance improvement on an extensive data set CUB-2000-2011. This method is valuable for detection of texture objects that are viewed against background clutter. This methodology shows how high frequency gradients can be better deal with interfering texture of shape within the bird-like objects which is major problem in detection of bird like objects. Furthermore the classification accuracy  analysis through support vector machine, naive classifier and decision tree methods with comparative analysis of results..\\
+
+\end{itemize}
+
+\begin{itemize}
+    
+
+\item{\bf Title:} Motion Compensation using Block Matching Algorithm\\
+\textbf{Abstract:} The main aim of this project is to design motion compensation technique using Block Matching Algorithm to achieve efficient video compression.\\
+
+\end{itemize}
+
+
+\section{\sc B.Tech Projects}
+\begin{itemize}
+\item{\bf Title:}  Computer Science Department Portal (Major Project)\\
+\textbf{Abstract:} It is a user-friendly application, design to allow any department of a college to manage the information related to its members, resources and events more efficiently by providing Department's Documentation and Management. This application speeds up the complete process thereby saving time and energy of manpower.\\
+\textbf{Technology:} C$\#$.Net with SQL Server Express Edition.
+
+
+
+\item{\bf Title:}  Student Marks Analysis System\\
+\textbf{Abstract:} The purpose of the project is to create a computerized environment in any education firm due to which easy and fast access to the database of student can be done.\\
+\textbf{Technology:} C++.
+
+
+%\textbf{Technology:} C$\#$ .Net with MS ACCESS.
+
+\end{itemize}
+
+
+es and Workshops Attended}
+
+\section{\sc Skills Summary}
+\textbf{Operating Systems Familiarity:} Windows XP/7/8.1/10, Linux\\
+\textbf{Programming Languages:} C, C++, python, Basic shell scripting  \\
+\textbf{Recent Course Completion:} CS231n (Deep learning), Convolution Neural Network\\
+\textbf{Tools and Packages:} Latex, Open Office, MS Office, jupyter notebook, Tensorflow with keras \\
+\textbf{Virtualization Tools:} Oracle VM Virtual Box, VMWare Vsphere suite\\
+
+
+\section{\sc Training and Workshop}
+\begin{itemize}
+
+\item{\bf Deep Learning.AI certification August 2020 :} Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning.
+\item{\bf Amazon Web Services specialization certification - July 2020 : } AWS Fundamentals
+Amazon Web Services.
+\item{\bf The Linux Foundation specialization certification - August 2020:} Open Source Software Development, Linux and Git.
+\item{\bf INTEL HPC Code Modernization: Workshop series Organize by INTEL Central University Of Rajasthan, Ajmer.
+
+\item{\bf Learning Tensorflow 
+(Case Study – Tried Convolution neural network on MNIST dataset (handwritten digits recognition)
+.
+\item{\bf Machine Learning:} Participated in 4 Days workshop organized by Central University Of Rajasthan.
+\item{\bf Virtual Tech Days:} Participated in 3 Days workshop organized by Microsoft(High Performance Computing) at Central University of Rajasthan.
+%\item{\bf Ethical Hacking and Cyber Security:} Attended 2 days workshop organized by i3indya Technologies . 
+\end{itemize}
+
+
+\section{\sc Achievements and Extra Curricular Activities}
+\begin{itemize}
+\item Qualified GATE 2016 with 382 score respectively.
+\item Won ``Best cost strategy'' prize on Entrepreneur day held by Central University of Rajasthan.
+\item Elected member of Student Council at Central University of Rajasthan in 2015-16.
+\end{itemize} 
+
+\section{\sc Referees}
+\begin{itemize}
+\item \textbf{Name:} Mr. Deepak Kumar Gupta\\
+\textbf {Designation:} Associate Professor in Department of Computer Science and Engineering, National Institute Of Technology, Jalandhar, India \\
+\textbf {Research Interests :} Distributed systems, Wireless Sensor Networks, Security aspects of distributed systems\\
+
+
+\end{itemize}
+
+\section{\sc Personal Details}
+\textbf {Father's Name:} Mr. Ram Sevak Mathur \\
+\textbf{Date of Birth:} July 19, 1991 \\
+\textbf{Gender $\&$ Status:} Male $\&$ Single\\
+\textbf{Nationality:} Indian\\
+\textbf{Languages:} English and Hindi\\\\\\\\\
+\textbf{I vouch for the authenticity of the above-mentioned facts.}
+\section{}
+\hspace{13cm}{Ashwini Mathur}
+
+
+\end{resume}
+
+\end{document}
